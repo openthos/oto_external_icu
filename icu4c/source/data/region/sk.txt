@@ -31,6 +31,7 @@ sk{
         151{"východná Európa"}
         154{"severná Európa"}
         155{"západná Európa"}
+        202{"subsaharská Afrika"}
         419{"Latinská Amerika"}
         AC{"Ascension"}
         AD{"Andorra"}
@@ -106,6 +107,7 @@ sk{
         ES{"Španielsko"}
         ET{"Etiópia"}
         EU{"Európska únia"}
+        EZ{"eurozóna"}
         FI{"Fínsko"}
         FJ{"Fidži"}
         FK{"Falklandy"}
@@ -116,7 +118,7 @@ sk{
         GB{"Spojené kráľovstvo"}
         GD{"Grenada"}
         GE{"Gruzínsko"}
-        GF{"Francúzska Guayana"}
+        GF{"Francúzska Guyana"}
         GG{"Guernsey"}
         GH{"Ghana"}
         GI{"Gibraltár"}
@@ -130,8 +132,8 @@ sk{
         GT{"Guatemala"}
         GU{"Guam"}
         GW{"Guinea-Bissau"}
-        GY{"Guayana"}
-        HK{"Hongkong"}
+        GY{"Guyana"}
+        HK{"Hongkong – OAO Číny"}
         HM{"Heardov ostrov a Macdonaldove ostrovy"}
         HN{"Honduras"}
         HR{"Chorvátsko"}
@@ -181,11 +183,11 @@ sk{
         MF{"Svätý Martin (fr.)"}
         MG{"Madagaskar"}
         MH{"Marshallove ostrovy"}
-        MK{"Macedónsko (BJRM)"}
+        MK{"Severné Macedónsko"}
         ML{"Mali"}
         MM{"Mjanmarsko"}
         MN{"Mongolsko"}
-        MO{"Macao"}
+        MO{"Macao – OAO Číny"}
         MP{"Severné Mariány"}
         MQ{"Martinik"}
         MR{"Mauritánia"}
@@ -213,14 +215,14 @@ sk{
         PA{"Panama"}
         PE{"Peru"}
         PF{"Francúzska Polynézia"}
-        PG{"Papua Nová Guinea"}
+        PG{"Papua-Nová Guinea"}
         PH{"Filipíny"}
         PK{"Pakistan"}
         PL{"Poľsko"}
         PM{"Saint Pierre a Miquelon"}
         PN{"Pitcairnove ostrovy"}
         PR{"Portoriko"}
-        PS{"Palestína"}
+        PS{"Palestínske územia"}
         PT{"Portugalsko"}
         PW{"Palau"}
         PY{"Paraguaj"}
@@ -272,7 +274,7 @@ sk{
         UA{"Ukrajina"}
         UG{"Uganda"}
         UM{"Menšie odľahlé ostrovy USA"}
-        UN{"OSN"}
+        UN{"Organizácia Spojených národov"}
         US{"Spojené štáty"}
         UY{"Uruguaj"}
         UZ{"Uzbekistan"}
@@ -295,11 +297,15 @@ sk{
     }
     Countries%short{
         GB{"UK"}
+        HK{"Hongkong"}
+        MO{"Macao"}
+        PS{"Palestínska samospráva"}
         UN{"OSN"}
         US{"USA"}
     }
     Countries%variant{
         CZ{"Česká republika"}
+        FK{"Falklandy (Malvíny)"}
     }
-    Version{"2.1.28.79"}
+    Version{"2.1.48.42"}
 }
