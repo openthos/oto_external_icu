@@ -1,12 +1,8 @@
-﻿// ***************************************************************************
-// *
-// * Copyright (C) 2014 International Business Machines
-// * Corporation and others. All Rights Reserved.
-// * Tool: org.unicode.cldr.icu.NewLdml2IcuConverter
-// * Source File: <path>/common/main/sr_Latn_RS.xml
-// *
-// ***************************************************************************
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html#License
+/**
+ * generated alias target
+ */
 sr_Latn_RS{
-    %%Parent{"sr_Latn"}
-    Version{"2.0.90.61"}
+    ___{""}
 }
